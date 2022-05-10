@@ -13,7 +13,6 @@ C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\De
 C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.pdb
 C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.genruntimeconfig.cache
 C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.csproj.GenerateResource.cache
-C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.Resource.klingonTextoB.resources
 C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.Resource.klingonTextA.resources
 C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.csproj.AssemblyReference.cache
 C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.Resource.klingonTextA.resources
@@ -32,3 +31,4 @@ C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\Kling
 C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\KlingonLanguageReader\bin\Debug\netcoreapp3.1\KlingonLanguageReader.dll
 C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\KlingonLanguageReader\bin\Debug\netcoreapp3.1\KlingonLanguageReader.pdb
 C:\Users\Gabriel\source\repos\KlingonLanguageReader2\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\KlingonLanguageReader\KlingonLanguageReader\obj\Debug\netcoreapp3.1\KlingonLanguageReader.Resource.klingonTextB.resources

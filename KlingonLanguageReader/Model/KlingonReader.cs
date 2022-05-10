@@ -8,7 +8,6 @@ namespace KlingonLanguageReader
 {
     public class KlingonReader
     {
-
         private readonly List<string> _separateWords = new List<string>();
         public KlingonReader(string text)
         {

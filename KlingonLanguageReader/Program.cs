@@ -8,7 +8,7 @@ namespace KlingonLanguageReader
     {
         static void Main(string[] args)
         {
-            KlingonReader klingonReader = new KlingonReader(klingonTextA.Text);
+            KlingonReader klingonReader = new KlingonReader(klingonTextB.Text);
             Console.WriteLine($"E no Texto B, quantas preposições existem? R: {klingonReader.GetTotalPrepositions()}");
             Console.WriteLine($"Já no Texto B, quantos são os verbos? R: {klingonReader.GetTotalVerbs()}");
             Console.WriteLine($"E quantos verbos do Texto B estão em primeira pessoa? R: {klingonReader.GetTotalVerbsInFirstPerson()}");

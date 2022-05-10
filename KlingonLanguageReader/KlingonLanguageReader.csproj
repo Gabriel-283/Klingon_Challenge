@@ -15,10 +15,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>klingonTextA.resx</DependentUpon>
     </Compile>
-    <Compile Update="Resource\klingonTextoB.Designer.cs">
+    <Compile Update="Resource\klingonTextB.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>klingonTextoB.resx</DependentUpon>
+      <DependentUpon>klingonTextB.resx</DependentUpon>
     </Compile>
   </ItemGroup>
 
@@ -27,9 +27,9 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>klingonTextA.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Update="Resource\klingonTextoB.resx">
+    <EmbeddedResource Update="Resource\klingonTextB.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>klingonTextoB.Designer.cs</LastGenOutput>
+      <LastGenOutput>klingonTextB.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
 
