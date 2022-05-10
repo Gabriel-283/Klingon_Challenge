@@ -14,7 +14,6 @@ namespace KlingonLanguageReader
             Console.WriteLine($"E quantos verbos do Texto B estão em primeira pessoa? R: {klingonReader.GetTotalVerbsInFirstPerson()}");
             Console.WriteLine($"Como seria a lista de vocabulário do Texto B? R: {klingonReader.GetVocabularyOrganized()}");
             Console.WriteLine($"E no Texto B, quantos números bonitos distintos existem? R: {klingonReader.GetBeautifullNumeber()}");
-            Console.ReadKey();
         }
     }
 }
